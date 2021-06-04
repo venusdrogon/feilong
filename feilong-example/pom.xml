@@ -26,7 +26,7 @@
 		<version.slf4j>1.7.30</version.slf4j>
 
 		<!-- http://hc.apache.org/downloads.cgi -->
-		<version.httpcomponents>4.5.12</version.httpcomponents>
+		<version.httpcomponents>4.5.13</version.httpcomponents>
 
 
 
